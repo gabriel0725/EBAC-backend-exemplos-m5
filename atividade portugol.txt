@@ -1,0 +1,18 @@
+inicio
+1 - despertador toca
+2 - abro os olhos
+3 - desligo o despertador
+4 - levanto da cama
+5 - vou ao banheiro
+6 - escovo os dentes
+7 - saio do banheiro
+8 - cachorro esta acordado? Sim
+	1 - fazer carinho no cachorro
+	2 - voltar para o quarto
+	3 - ligar o computador
+	4 - começar a trabalhar
+9 - Não
+	1 - voltar para o quarto
+	2 - ligar o computador
+	3 - começar a trabalhar
+fim
